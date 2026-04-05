@@ -1,6 +1,6 @@
 # Finance Data Processing Backend
 
-## My Approach to this Assignment
+## My Approach : 
 As a backend developer learning best practices, my primary goal for this assignment was to write clean, understandable, and logical code. Instead of over-complicating the system, I focused on proper separation of concerns (Controller -> Service -> Repository) and making sure the business logic solves the exact requirements given.
 
 ### Technology Used
