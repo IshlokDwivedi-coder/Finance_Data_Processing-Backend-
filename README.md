@@ -24,3 +24,8 @@ As a backend developer learning best practices, my primary goal for this assignm
 * **ADMIN:** Can create users, and has full CRUD over records.
 * **ANALYST:** Can view records and view the dashboard summary.
 * **VIEWER:** Can only view the dashboard summary.
+
+### API Flow for Testing (Postman)
+1. **Login:** `POST /api/auth/login` with admin credentials 
+2. **Create a Record:** `POST /api/records` 
+3. **View Dashboard:** `GET /api/dashboard/summary`.
